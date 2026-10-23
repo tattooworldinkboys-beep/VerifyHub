@@ -1,0 +1,14 @@
+
+{
+  "name": "verifyhub",
+  "version": "1.0.0",
+  "description": "Telegram verification request and admin approval bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "dotenv": "^16.4.7"
+  }
+}
