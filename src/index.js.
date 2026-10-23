@@ -1,4 +1,3 @@
-
 export default {
   async fetch(request) {
     return new Response("VerifyHub Worker is running!");
